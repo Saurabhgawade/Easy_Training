@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\firsttry.exe
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\firsttry.deps.json
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\firsttry.runtimeconfig.json
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\firsttry.dll
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\firsttry.pdb
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.AssemblyInfo.cs
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.dll
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\refint\firsttry.dll
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.pdb
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\firsttry.genruntimeconfig.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\ref\firsttry.dll

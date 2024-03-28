@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\StartWithC#.exe
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\StartWithC#.deps.json
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\StartWithC#.runtimeconfig.json
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\StartWithC#.dll
+C:\Users\Hp\source\repos\firsttry\bin\Debug\net8.0\StartWithC#.pdb
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.AssemblyInfo.cs
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.dll
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\refint\StartWithC#.dll
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.pdb
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\StartWithC#.genruntimeconfig.cache
+C:\Users\Hp\source\repos\firsttry\obj\Debug\net8.0\ref\StartWithC#.dll

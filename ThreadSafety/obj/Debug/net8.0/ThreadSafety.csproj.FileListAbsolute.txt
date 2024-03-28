@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ThreadSafety\bin\Debug\net8.0\ThreadSafety.exe
+C:\Users\Hp\source\repos\ThreadSafety\bin\Debug\net8.0\ThreadSafety.deps.json
+C:\Users\Hp\source\repos\ThreadSafety\bin\Debug\net8.0\ThreadSafety.runtimeconfig.json
+C:\Users\Hp\source\repos\ThreadSafety\bin\Debug\net8.0\ThreadSafety.dll
+C:\Users\Hp\source\repos\ThreadSafety\bin\Debug\net8.0\ThreadSafety.pdb
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.dll
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\refint\ThreadSafety.dll
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.pdb
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ThreadSafety.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ThreadSafety\obj\Debug\net8.0\ref\ThreadSafety.dll

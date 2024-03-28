@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\AsyncSync\bin\Debug\net8.0\AsyncSync.exe
+C:\Users\Hp\source\repos\AsyncSync\bin\Debug\net8.0\AsyncSync.deps.json
+C:\Users\Hp\source\repos\AsyncSync\bin\Debug\net8.0\AsyncSync.runtimeconfig.json
+C:\Users\Hp\source\repos\AsyncSync\bin\Debug\net8.0\AsyncSync.dll
+C:\Users\Hp\source\repos\AsyncSync\bin\Debug\net8.0\AsyncSync.pdb
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.dll
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\refint\AsyncSync.dll
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.pdb
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\AsyncSync.genruntimeconfig.cache
+C:\Users\Hp\source\repos\AsyncSync\obj\Debug\net8.0\ref\AsyncSync.dll

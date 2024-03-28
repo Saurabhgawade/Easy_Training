@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.AssemblyInfo.cs
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\generic_Non-generic\bin\Debug\net8.0\generic_Non-generic.exe
+C:\Users\Hp\source\repos\generic_Non-generic\bin\Debug\net8.0\generic_Non-generic.deps.json
+C:\Users\Hp\source\repos\generic_Non-generic\bin\Debug\net8.0\generic_Non-generic.runtimeconfig.json
+C:\Users\Hp\source\repos\generic_Non-generic\bin\Debug\net8.0\generic_Non-generic.dll
+C:\Users\Hp\source\repos\generic_Non-generic\bin\Debug\net8.0\generic_Non-generic.pdb
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.dll
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\refint\generic_Non-generic.dll
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.pdb
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\generic_Non-generic.genruntimeconfig.cache
+C:\Users\Hp\source\repos\generic_Non-generic\obj\Debug\net8.0\ref\generic_Non-generic.dll

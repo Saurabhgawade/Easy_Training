@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.exe
+C:\Users\Hp\source\repos\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.deps.json
+C:\Users\Hp\source\repos\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.runtimeconfig.json
+C:\Users\Hp\source\repos\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.dll
+C:\Users\Hp\source\repos\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.pdb
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.dll
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\refint\Non_Generic_Collection.dll
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.pdb
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Non_Generic_Collection\obj\Debug\net8.0\ref\Non_Generic_Collection.dll
